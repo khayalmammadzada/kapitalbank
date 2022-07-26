@@ -1,0 +1,179 @@
+.section-1 .card-types button {
+  width: 95px;
+  height: 35px;
+  background-color: #E8ECF1;
+  border-radius: 25px;
+  border-style: none;
+  font-size: 14px;
+}
+
+.section-1 .kartlar h2 {
+  font-size: 48px;
+}
+
+.section-1 .kartlar p {
+  font-size: 14px;
+  color: #2E3131;
+}
+
+.section-1 .card-types .button-1 {
+  background-color: #F45369;
+  color: white;
+}
+
+.section-2 .container {
+  padding: 45px 0;
+  background-color: #F9FAFB;
+  border-radius: 12px;
+}
+
+.section-2 .container .populyar {
+  padding-left: 38%;
+}
+
+.section-2 .container .populyar .text p {
+  color: #FF0023;
+}
+
+.section-2 .container .cashback_image img {
+  width: 85%;
+  height: 100%;
+}
+
+.section-2 .container .cashback_edv h2 {
+  font-size: 28px;
+}
+
+.section-2 .container .cashback_edv .pr-1 {
+  font-size: 20px;
+}
+
+.section-2 .container .cashback_edv button {
+  background-color: #F45369;
+  color: white;
+  border-style: none;
+  border-radius: 12px;
+  width: 90%;
+  height: 50px;
+}
+
+.section-2 .container .cashback_edv button:hover {
+  background-color: #e72d46;
+}
+
+.section-2 .container .partnyor p {
+  padding-top: 30%;
+}
+
+.section-2 .container .partnyor button {
+  border-style: none;
+  background-color: transparent;
+  margin-top: 26%;
+}
+
+.section-2 .container .pulsuz {
+  padding-top: 4%;
+}
+
+.section-3 .kartlar .kart img {
+  width: 60%;
+  height: 27%;
+}
+
+.section-3 .kartlar .kart {
+  margin-top: 80px;
+  background-color: #F9FAFB;
+  border-radius: 12px;
+}
+
+.section-3 .kartlar .kart .image {
+  -webkit-transform: translateY(-34%);
+          transform: translateY(-34%);
+}
+
+.section-3 .kartlar .kart .text {
+  -webkit-transform: translateY(-35%);
+          transform: translateY(-35%);
+}
+
+.section-3 .kartlar .kart .buttons .bt1 {
+  width: 30%;
+  color: #F45369;
+  border-style: none;
+  border-color: #F9FAFB;
+  background-color: transparent;
+}
+
+.section-3 .kartlar .kart .buttons .bt1:hover {
+  background-color: #F45369;
+  color: white;
+}
+
+.section-3 .kartlar .kart .buttons .bt2 {
+  width: 68%;
+  background-color: transparent;
+  border-top: .5px;
+  border-color: #F9FAFB;
+  border-style: none;
+}
+
+.section-3 .kartlar .kart .buttons .bt2:hover {
+  background-color: #F45369;
+  color: white;
+}
+
+.section-4 .kart img {
+  width: 60%;
+  height: 27%;
+}
+
+.section-4 .kart {
+  margin-top: 80px;
+  background-color: #F9FAFB;
+  border-radius: 12px;
+}
+
+.section-4 .kart .image {
+  -webkit-transform: translateY(-34%);
+          transform: translateY(-34%);
+}
+
+.section-4 .kart .text {
+  -webkit-transform: translateY(-35%);
+          transform: translateY(-35%);
+}
+
+.section-4 .kart .buttons .bt2 {
+  width: 100%;
+  height: 40px;
+  background-color: transparent;
+  border-top: .5px;
+  border-color: #F9FAFB;
+  border-style: none;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+
+.section-4 .kart .buttons .bt2:hover {
+  background-color: #F45369;
+  color: white;
+  -webkit-transition: .3s;
+  transition: .3s;
+}
+
+.section-5 .buttons .small {
+  width: 100px;
+  height: 35px;
+}
+
+.section-5 .buttons .large {
+  width: 165px;
+  height: 35px;
+}
+
+.section-5 .buttons button {
+  background-color: #e8ecf1;
+  border-radius: 15px;
+  border-style: none;
+}
+/*# sourceMappingURL=main.css.map */
